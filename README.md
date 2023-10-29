@@ -2,6 +2,9 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/SimarMinan)
 
+[![TahaHaksal's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahaHaksal)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **TahaHaksal/TahaHaksal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
