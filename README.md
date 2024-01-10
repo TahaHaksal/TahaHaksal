@@ -5,14 +5,14 @@
 	Banner
 -->
 
-- 🔭 I’m currently working on my [Rubik's](https://github.com/TahaHaksal/Rubik) cube solving algorithm and solving LeetCode problems.
-- 🌱 I’m currently learning Graphics programming using Vulkan API.
+- 🔭 I’m currently working on my [Rubik's](https://github.com/TahaHaksal/Rubik) cube solving algorithm and learning JavaScript with [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8).
+- 🌱 I’m currently learning Graphics programming using Vulkan API and Javascript.
 - 👯 I’m looking to collaborate on Open Source Projects in order to improve myself.
 - 🤔 I’m looking for help with open source contributing and direction in programming mentoring.
 - 💬 Ask me about C/C++ syntax and problem solving.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/taha-haksal-2173b2233/), [Github](https://github.com/TahaHaksal) and [Gmail](m.haksal@gmail.com).
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact:  I love listening to music  and gaming. I can actually solve Rubik's cube in under 30 seconds. (Still trying to improve)
+- ⚡ Fun fact:  I love listening to music and gaming. I can actually solve Rubik's cube in under 30 seconds. (Still trying to improve)
 
 
 ## 🔥 My Stats
